@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Data Analysis
+# 🍽️ Basic Restaurant Data Analysis
 
 ## 📌 Project Overview
 This project analyzes restaurant customer data to understand spending patterns, tipping behavior, and customer distribution using Python.
